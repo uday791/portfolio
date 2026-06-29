@@ -41,7 +41,7 @@ Portfolio/
 
 ## 📸 Preview
 
-<img src="image.jpeg" alt="Profile" width="200">
+
 
 ## 📧 Contact
 
